@@ -1,0 +1,302 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A copie of quæries, or A comment upon the life, and actions of the grand tyrant and his complices; Oliver the first and last of that name, not unfit, nor unworthy of thy perusall.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1659</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 23 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A80521</idno>
+            <idno type="STC">Wing C6197</idno>
+            <idno type="STC">Thomason E988_10</idno>
+            <idno type="STC">ESTC R208073</idno>
+            <idno type="EEBO-CITATION">99867073</idno>
+            <idno type="PROQUEST">99867073</idno>
+            <idno type="VID">119363</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A80521)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 119363)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 147:E988[10])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A copie of quæries, or A comment upon the life, and actions of the grand tyrant and his complices; Oliver the first and last of that name, not unfit, nor unworthy of thy perusall.</title>
+               </titleStmt>
+               <extent>11, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed in Utopia [i.e. London], that shall be 1659. To be sold by the Haukers at St. Magnum, and Pye-Corner,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>[1659]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Annotation on Thomason copy: "June. 22.".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Cromwell, Oliver, 1599-1658 --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-02</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2011-02</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:119363:1" rendition="simple:additions"/>
+            <head>A Copie of Quaeries, OR, A Comment upon the Life, and Actions of the Grand Tyrant and his Com<g ref="char:EOLhyphen"/>plices; OLIVER the Firſt and laſt of that Name, not unfit, nor unworthy of thy peruſall.</head>
+            <div type="to_the_reader">
+               <p>
+                  <hi>COVRTEOVS READER,</hi> J preſume to preſent thee with ſome <hi>Quaeries</hi> come to my hands not long ſince, which were Intended to be preſented to the <hi>Parliam<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>nt</hi> (in <hi>1657</hi> then Sit<g ref="char:EOLhyphen"/>ting; but the time then being ſo malevolent and the chiefe ſub<g ref="char:EOLhyphen"/>ject of them, being then in his full power and Tyrannie, that neither the Author nor Printer durſt publiſh then, unleſſe they minded wilfully to caſt themſelves upon his Mercy, which all men knowes what that was. There have come forth ſeverall pa<g ref="char:EOLhyphen"/>pers of <hi>Quaerees</hi> of late; but not any of them in this kind. If theſe which J now publiſh doe not pleaſe thee (in a kind) ſacri<g ref="char:EOLhyphen"/>fice them to the Fire, and ſeeke out ſome better Wit to mend them; and both the Author, and Printer, will give thee thanks.</p>
+               <closer>
+                  <salute>Vale.</salute>
+               </closer>
+            </div>
+            <div type="list_of_questions">
+               <p n="1">PRIMO, I.</p>
+               <p>
+                  <seg rend="decorInit">W</seg>Hether this preſent Parliament which is to doe nothing but what <hi>OP</hi> ſhall appoint, is to ſit any longer then hee pleaſeth.</p>
+               <p n="2">2. Whether all Votes muſt not paſſe in the Houſe acc<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rding as <hi>OP</hi> will have them, whoſe will is to be the Law of this Parliament.</p>
+               <pb n="2" facs="tcp:119363:2"/>
+               <p n="3">3. Whether the Lord Protector his going with the Tide to the Houſe, do betoken any good tydings, we ſhall heare from thence.</p>
+               <p n="4">4. Whether his returning at high water back againe, doe not portend, that his Proſperities are neere their Ebbe.</p>
+               <p n="5">5. Wheither <hi>OP</hi> did not ſeeme to Bugger the houſe, when hee went into it the Back way.</p>
+               <p n="6">6. Whether ſuch muſt not heare with <hi>OP</hi> his Eares, and ſee with <hi>OP</hi> his Eyes, who can fancy thoſe Nations to be happie, or beleeve any word hee ſayes.</p>
+               <p n="7">7. Whether <hi>OP</hi> his ſhort Speech to the Houſes, were not on purpoſe, to inſinuate that (if his Friends) it would become them likewiſe to uſe but few words; If his Foes, That he would yet be ſhorter with them.</p>
+               <p n="8">8. Whether what the Lord <hi>Fines,</hi> who ſupplyed what <hi>OP</hi> left unſaid, ſpake with his owne, or the L. Protector's mouth.</p>
+               <p n="9">9. Whether what the L. <hi>Fines</hi> (ſpake with <hi>OP</hi> his mouth) He may not one day be made to eat his owne words.</p>
+               <p n="10">10. Whether the L. <hi>Fines</hi> his Speech which began in <hi>Geneſis,</hi> If the Game goe on <hi>(Par le Roy)</hi> will not end in the Booke of the <hi>Kings.</hi>
+               </p>
+               <p n="11">11. Whether the Houſes Snarling at their firſt greeting one another, may not agree like Dogs at laſt.</p>
+               <p n="12">12. Whether not Praying together (but Severally) they may be ſaid to be of the ſame Communion.</p>
+               <p n="13">13. Or, God (for certaine) not being amongſt them, nor ever likely to be (unleſs in Vengeance) howſoever they may pretend to ſeek him in mercy; in whoſe Name is this Parliament met.</p>
+               <p n="14">14. Whether <hi>OP</hi> doing all things with a <hi>Fiat,</hi> ought to have had Divine worſhip given him; but that beholding all his works when they were done, hee could not ſay that any of them were Good.</p>
+               <p n="15">15. Whether the bold <hi>Black ſmith,</hi> that doth ſo Roundly Clinch the Lord <hi>OP</hi> and his Parliament, would not alſo give him and them a remove, if hee durſt.</p>
+               <p n="16">16. Whether thoſe Parliament mens Wives, who lye lan<g ref="char:EOLhyphen"/>guiſhing for want of their Husbands, may not ſue the Lord <hi>Pro<g ref="char:EOLhyphen"/>tector</hi>
+                  <pb n="3" facs="tcp:119363:2"/>for <hi>Delapidations,</hi> who hath foreeably taken their <hi>Mem<g ref="char:EOLhyphen"/>bers</hi> from them.</p>
+               <p n="17">17. Whether thoſe Members of the Houſe of Commons, who queſtioned the <hi>Peerage</hi> of the other Houſe, may not alſo ſcruple at the <hi>Kingſhip.</hi>
+               </p>
+               <p n="18">18. Whether the Teares which <hi>OP</hi> wept, when the <hi>Protec<g ref="char:EOLhyphen"/>torſhip</hi> was forc'd upon him, were not like thoſe of the <hi>Crocadile.</hi>
+               </p>
+               <p n="19">19. Whether <hi>Weeping</hi> at his Coronation, hee will not be jud<g ref="char:EOLhyphen"/>ged to ſhed the very ſelfe-ſame <hi>Teares.</hi>
+               </p>
+               <p n="20">20. Whether <hi>OP</hi> his <hi>Hat</hi> ſeemed too light for his Head; whether may not the Crowne be too heavie for it.</p>
+               <p n="21">21. And ſhould the <hi>Crowne</hi> prove too heavie for his Head, whether may not his head prove too light for his Shoulders.</p>
+               <p n="22">22. Whether this Parliament though it met in the Metropolis will not ſit upon the skirts of the Nation.</p>
+               <p n="23">23. Whether (like that of moſt Weddings) the firſt joyfull day of this preſent Parliament, will not be the fore-runner of a great many yeares of Sorrowes.</p>
+               <p n="24">24. Whether the Houſe ought not to Petition for ſome other Name, then that of <hi>Parliament</hi> to be called by; ſince it is reſol<g ref="char:EOLhyphen"/>ved by <hi>OP</hi> that no body in it muſt dare to ſpeake Freely.</p>
+               <p n="25">25. Whether this preſent Parliament have not faire warning to ſit cloſe, who have ſeene one Precedent to them, ſo foully throwne out of the Saddle.</p>
+               <p n="26">26. Whether <hi>OP</hi> did not more then make good the old Say<g ref="char:EOLhyphen"/>ing, <hi>In throwing the Houſe out at the Windowes,</hi> when with one blaſt of his Mouth, hee blew Two whole houſes of Parlia<g ref="char:EOLhyphen"/>ment out of Doores.</p>
+               <p n="27">27. Whether <hi>OP</hi> his God-father, and Godmother did not fore-ſee that hee would love Mutton well, when they Chri<g ref="char:EOLhyphen"/>ſtened him <hi>OLIVE</hi>-R.</p>
+               <p n="28">28. Whether the Cuckolds Creſt ought not to be quartered hence-forward with the <hi>Lyon</hi> and <hi>
+                     <g ref="char:V">Ʋ</g>nicorne;</hi> ſince the Royall Armes are now to diſcend upon the Town-Bull of <hi>Ely.</hi>
+               </p>
+               <p n="29">29. As the Off-ſpring of ſuch a monſtrous Parent, what are wee to expect, whiles that Line ſhall ſway theſe Nations; but
+<pb n="4" facs="tcp:119363:3"/>the Tyrannie, Rapine, and Oppreſſions of a blood Diſloyall.</p>
+               <p n="30">30. Whether are wee not to Expect an Earthquake in <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> when at the ſame time, and in One perſon, both a <hi>King,</hi> a <hi>Tyrant,</hi> and a <hi>Traytor,</hi> ſhall Infeſt the Throne.</p>
+               <p n="31">31. Whether his Prognoſticks be true, who ſayes, wee ſhall have two Kings in <hi>England</hi> before the 24.th of <hi>Iune.</hi>
+               </p>
+               <p n="32">32. Whether hee that from a Copper hath Rais'd himſelfe to a Crowne, hath not Brewed fairely.</p>
+               <p n="33">33. Whether <hi>OP</hi> and Col. <hi>Pride,</hi> having been Brothers of the <hi>Sling,</hi> would not <hi>Handſomely</hi> hang together.</p>
+               <p n="34">34. Whether having been Brothers all along in <hi>Evill,</hi> and never likely to mend; any <hi>Good</hi> may or ought to be expected from them. If every one had his right, and the Divell his due —</p>
+               <p n="35">35. Whether would <hi>CR,</hi> or <hi>OP,</hi> be the <hi>Elder</hi> Brother.</p>
+               <p n="36">36. Whether it would not have been a conſiderable advan<g ref="char:EOLhyphen"/>tage to Col. <hi>Pride,</hi> and Col. <hi>Baxſter,</hi> had <hi>OP</hi> Knighting them, call'd the one Sir <hi>Thomas Slingsby,</hi> and the other Sir <hi>John Thim<g ref="char:EOLhyphen"/>bleby;</hi> for then they might have been Gentlemen as well as Knights.</p>
+               <p n="37">37. Whether <hi>Hell</hi> ought not to be removed out of <hi>Weſtmin<g ref="char:EOLhyphen"/>ſter</hi> into the City, during this preſent Seſſions of Parliament, ſince ſo many Divels from all parts meeting in the Houſe, It were to much to have two <hi>Hells</hi> in one place.</p>
+               <p n="38">38. Whether all theſe Parliament men who frequent <hi>Heaven</hi> in the old <hi>Pallace,</hi> for the love of Plum-broath, and afterwards upon a full Stomach, and againſt their Conſciences, vote downe their Countries <hi>Liberty</hi> believe there is any other <hi>heaven</hi> but that.</p>
+               <p n="39">39. Whether Sir <hi>Thomas Pride</hi>'s wife were Dubbis a <hi>Lady</hi> at the very pronouncing of theſe words; <hi>Riſe up Sir Thomas</hi> — or not till after hee had laine with her.</p>
+               <p n="40">40. Whether a man might not cry <hi>Rub</hi> to him, who ſhould ſay, that <hi>OP</hi> were an Honeſt man, Though hee hath proved himſelfe a very good <hi>Bowler.</hi>
+               </p>
+               <p n="41">41. Whether all Iourney-men, and Apprentices of the <hi>Gen<g ref="char:EOLhyphen"/>tle Craft</hi> ſhould not have <hi>Munday</hi> hence-forward, made a per<g ref="char:EOLhyphen"/>petuall Holiday, Now that Cobler <hi>Hewſon,</hi> is of the Houſe of <hi>Lords.</hi>
+               </p>
+               <pb n="5" facs="tcp:119363:3"/>
+               <p n="42">42. Whether Cobler <hi>Hewſons</hi> wife have not a conſiderable advantage of other mens, whoſe Husband hath one blind ſide.</p>
+               <p n="43">43. Whether <hi>OP</hi> from the Hogſwaſh of his <hi>Grain-tub,</hi> high<g ref="char:EOLhyphen"/>ly feeding now, upon the Fat of three Kingdomes, have not pickt up his Crums well.</p>
+               <p n="44">44. Whether of ſuch an Egge as <hi>OP,</hi> was ever likely to hatch a better Bird.</p>
+               <p n="45">45. Whether <hi>Mardike,</hi> as the caſe now ſtands, bee an <hi>Eng<g ref="char:EOLhyphen"/>liſh</hi> or <hi>French</hi> Garriſon?</p>
+               <p n="46">46. Whether <hi>Rainolds, White,</hi> and the reſt did not wilfully Drowne themſelves to eſcape Hanging.</p>
+               <p n="47">47. Whether (if the Peace goe on) <hi>Jamaica,</hi> or <hi>Mardike,</hi> is like to prove the dearer Market.</p>
+               <p n="48">48. Whether it ſhall not be Treaſon againſt the new Queene (though at middle Noone day) to ſay, <hi>Jo<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ne is as good as my Lady.</hi>
+               </p>
+               <p n="49">49. Whether the Ballat (of <hi>Iones</hi> Placket is tore out) be not to be burnt by the publique Hangman, when <hi>OP</hi> ſhall bee proclaimed King.</p>
+               <p n="50">50. Whether <hi>Contributions, Sequeſtrations, Exciſe, Im<g ref="char:EOLhyphen"/>poſts,</hi> &amp;c. ought not in ſome meaſure to bee hereafter qualified now that ſo many Ioynters are lately fallen to his Highneſs by the Death of his Mother.</p>
+               <p n="51">51. Whether when the Fire raged ſo, in the Lord <hi>Facon<g ref="char:EOLhyphen"/>bridge</hi> his Britch, for the Love of the Lady <hi>Mary,</hi> the Divell did not blow the <hi>Bellaſſes.</hi>
+               </p>
+               <p n="52">52. Whether Her Grace of <hi>Richmond,</hi> ought not to be out of Countenance, as often as ſhee eates <hi>Pigge;</hi> for ſaying, <hi>That</hi> Mary Cromwell <hi>was the Fouleſt ſowe in England.</hi>
+               </p>
+               <p n="53">53. Whether the Lady <hi>Frances</hi> in the choyſe of her Husband did not make a Pockey <hi>Rich</hi> Bargaine.</p>
+               <p n="54">54. Whether the Lord <hi>Rich,</hi> having ſo Soundly Pepperd his wives Porke, may not keepe it as a Standing <hi>Diſh</hi> for his owne Table.</p>
+               <p n="55">55. Whether hee that ſhould give his Paines to the Lady a<g ref="char:EOLhyphen"/>foreſaid, would not be well payd for them.</p>
+               <pb n="6" facs="tcp:119363:4"/>
+               <p n="56">56. Whether the ſaid Lady did not intend to lye at Large and ſtretch her Legges for't, who layd 200. Elles of Linnen up<g ref="char:EOLhyphen"/>on her <hi>Nuptiall Bed,</hi> in one paire of <hi>Holland</hi> Sheets.</p>
+               <p n="57">57. Whether, the ſaid Lady will not prove a Chargeable piece, as to the reſt of her Appurtenances, who layd out 5 <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>/<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 100 in only twelve <hi>Smockes.</hi>
+               </p>
+               <p n="58">58. Whether the Lady <hi>Claypold,</hi> managing the <hi>Maſter of the Horſe,</hi> ought to have admitted the Lord <hi>H. W.</hi> into his Saddle.</p>
+               <p n="59">59. Whether it may be thought a diſparagement to the Lord <hi>Claypolds</hi> Horſmanſhip, That his Lady ſhould ſtill have Iadiſh Trickes.</p>
+               <p n="60">60. Whether, <hi>Cromwell</hi> had hee lived in <hi>Henry</hi> the Eights dayes, would not have given him <hi>A Hem,</hi> for <hi>His Hate,</hi> and perhaps his Dog to <hi>Hold.</hi>
+               </p>
+               <p n="61">61. Whether this <hi>Cromwell</hi> and <hi>Henry</hi> aforeſaid, when they have compared their Notes in the other world, will not be good Company in <hi>Hell</hi> together.</p>
+               <p n="62">62. Whether wee ſhall not now, have <hi>Halcion</hi> dayes, when <hi>OP</hi> is turning <hi>King</hi> Fiſher.</p>
+               <p n="63">63. Whether it may not be hoped, that the Lord <hi>OP</hi> will at laſt turne <hi>Cavileere,</hi> who growes more and more <hi>Kingly</hi> Af<g ref="char:EOLhyphen"/>fected.</p>
+               <p n="64">64. Whether <hi>Kingſhip</hi> ought not to be beneath the Lord <hi>OP</hi> his Aimes, the proportion of whoſe <hi>Noſe</hi> is more Imperiall.</p>
+               <p n="65">65. Whether the old Saying, That the <hi>Welcſh</hi> and the <hi>Iriſh</hi> are Brethren, will not then more then ever be made good, when the Lord <hi>Richard Cromwell</hi> ſhall be Prince of <hi>Wales,</hi> and <hi>Ire<g ref="char:EOLhyphen"/>land,</hi> under the <hi>Stepter</hi> of his Brother.</p>
+               <p n="66">66. Whether the Nations are to expect any Good from <hi>OP,</hi> who was never <hi>Good</hi> to any body but himſelfe.</p>
+               <p n="67">67. Whether the Houſe of <hi>Lords,</hi> bee not therefore called the <hi>Other Houſe,</hi> and not the <hi>
+                     <g ref="char:V">Ʋ</g>pper Houſe;</hi> becauſe there is not one right Gentleman of it.</p>
+               <p n="68">68. Whether moſt of the <hi>Members</hi> of the former Parlia<g ref="char:EOLhyphen"/>ment, having been <hi>Cuckold</hi> (according to <hi>Harry Martins</hi> ſence) The Lord <hi>OP</hi> hath not call'd now — juſt ſuch <hi>an other Houſe.</hi>
+               </p>
+               <pb n="7" facs="tcp:119363:4"/>
+               <p n="69">69. Whether if all thoſe muſt be <hi>Lords,</hi> who are call'd to Sit in the <hi>other Houſe,</hi> wee may not without offence to <hi>OP,</hi> ſay, <hi>The Divell ſhit Lords.</hi>
+               </p>
+               <p n="70">70. Whether, wee may not now juſtly hope the world will mend, when ſo many <hi>Coblers</hi> and <hi>Taylors</hi> are of the two Hou<g ref="char:EOLhyphen"/>es of Parliament.</p>
+               <p n="71">71. Whether, by way of Subſedy, or Loane moneys, are not to bee forthwith Raiſed to diſcharge the bills of Fare at <hi>White<g ref="char:EOLhyphen"/>hall,</hi> ſince <hi>OP</hi> having lately Increaſed his Family, by the Ac<g ref="char:EOLhyphen"/>ceſſion of the other Houſe.</p>
+               <p n="72">72. Whether <hi>OP</hi> ſeizing all mens Eſtates, may not give <hi>Flouriſhing Liveries</hi> to his Varlets.</p>
+               <p n="73">73. Whether, when <hi>Charles Stewart</hi> comes home againe, Sir <hi>Robert Tichbeurne</hi> will not be a true Lord <hi>Non-ſuch.</hi>
+               </p>
+               <p n="74">74. Whether Sir <hi>Iohn Bacſter</hi> the Thimble-maker, who can hardly write his owne Name, be of any fitting Capacity, to be made Earle of <hi>Cambridge.</hi>
+               </p>
+               <p n="75">75. Whether, when the <hi>Lyon</hi> Advanceth Sir <hi>Thomas Pride</hi> who is playing the Calfe (in aſpiring to the Tytle of <hi>Eſſex</hi>) may not bee call'd in Queſtion, for killing the Kings <hi>Beares.</hi>
+               </p>
+               <p n="76">76. Whether, when his Horſes ran away with him in <hi>Hide</hi> Parke, to have been out of the <hi>Coach-box,</hi> did not wiſh himſelfe in Alderman <hi>Atkins</hi> Breeches.</p>
+               <p n="77">77. Whether, <hi>Phaetons</hi> Fate together with that Great Deli<g ref="char:EOLhyphen"/>verance, ought not to have been a faire admoniſhment to <hi>OP</hi> to deſiſt from his Raſh undertakings.</p>
+               <p n="78">78. Whether, the <hi>Roman Catholick</hi> and <hi>old Proteſtant,</hi> be<g ref="char:EOLhyphen"/>ing both cryed downe, wee ſhall have any, All, or no Religion here in <hi>England.</hi>
+               </p>
+               <p n="79">79. Had his Name been <hi>Simon,</hi> and not <hi>Hugh;</hi> whether might not <hi>OP</hi> have been Highly ſuſpected for <hi>Popery,</hi> who is wholly of <hi>Peeters</hi> Religion.</p>
+               <pb n="8" facs="tcp:119363:5"/>
+               <p n="80">80. Whether to be in Heaven it ſelfe (admitting he believed there were a GOD) <hi>Hugh Peters</hi> would change Maſters with his Brother <hi>Simon,</hi> or rather indeed —</p>
+               <p n="81">81. Whether <hi>Hugh Peeters</hi> Maſter would not Crucifie, <hi>Si<g ref="char:EOLhyphen"/>mons</hi> againe, ſhould hee come as man within the <hi>verge</hi> of his <hi>Power,</hi> who not only perſecutes his <hi>Church,</hi> but is himſelfe, a <hi>Tiberius Nero,</hi> — and wants not <hi>Bradſhawes,</hi> worſe then <hi>Pontius Pilate.</hi>
+               </p>
+               <p n="82">82. Whether <hi>OP,</hi> Securing and Impriſoning ſo many Ho<g ref="char:EOLhyphen"/>neſt men, and good Chriſtians, doe not intend, to let <hi>Hell</hi> looſe and Reigne <hi>Divell</hi> himſelfe.</p>
+               <p n="83">83. Whether theſe pittifull over-ridden Nations will ever dare to ſay, A <hi>Turd</hi> in <hi>OP</hi> his Teeth, till hee has made them Shit as ſmall as a <hi>Mouſe.</hi>
+               </p>
+               <p n="84">84. Whether it ſhall beare an Action, to ſay. That any one, or all the <hi>Members</hi> of the Houſes are Knaves, ſince <hi>OP,</hi> hath called them ſo before Us, — or rather —</p>
+               <p n="85">85. Whether <hi>OP</hi> calling them by <hi>Writ</hi> to Diſcerne and be<g ref="char:EOLhyphen"/>tray their Country, have not given it, under his Hand they are no leſſe.</p>
+               <p n="86">86. Whether this preſent Parliament, though thorow <hi>Pac'd</hi> ought not to take heed of <hi>Stumbling,</hi> ſince it hath ſo Collerick a <hi>Rider.</hi>
+               </p>
+               <p n="87">87. Whether thoſe that light <hi>OP</hi> to Bed, doe not hold a <hi>Candle</hi> to the Divell.</p>
+               <p n="88">88. Whether hee that Portraied the Earle of <hi>Eſſex</hi> at Shit, with this <hi>Motto</hi> over his Head; <hi>You Fight, you Shite,</hi> had not a right Opinion of his <hi>Valour.</hi>
+               </p>
+               <p n="89">89. Whether thoſe Caſtles which <hi>OP</hi> began to build in the Ayre, when hee Deſigned firſt to take St. <hi>Domingo,</hi> will be fini<g ref="char:EOLhyphen"/>ſhed by this preſent <hi>Parliament.</hi>
+               </p>
+               <p n="90">90. Whether, if <hi>OP</hi> (as hee hath long ſince boaſted hee would<g ref="char:punc">▪</g> ſhould pull downe the <hi>Pope,</hi> He would not ſet up <hi>Hue Peeters</hi> in his Place.</p>
+               <pb n="9" facs="tcp:119363:5"/>
+               <p n="91">91. Whether <hi>OP</hi> his Leaſe being almoſt out at <hi>White-hall,</hi> it is not time for him, to ſet a Bill upon his Doore. And whe<g ref="char:EOLhyphen"/>ther thoſe, who have lately entred upon the Parliament hou<g ref="char:EOLhyphen"/>ſes are to bee only Tenants at will, or have taken it for any certaine Terme.</p>
+               <p n="92">92. Whether all, or ſuch only of this preſent Parliament, as are not Lawfully begotten into the houſes, by the Voyces of their reſpective Counties doe not ſit there, as <hi>OP</hi> his Ba<g ref="char:EOLhyphen"/>ſtards.</p>
+               <p n="93">93. Whether by way of Admonition to this preſent Parlia<g ref="char:EOLhyphen"/>ment, not to prate themſelves into a ſecond <hi>Proemonire,</hi> ſhould not cauſe that old <hi>Adage</hi> to be fairely written over the Doore of the houſes.</p>
+               <q>Stultos ac Turdos ſibe malum cheare:</q>
+               <p>Or, Emblematically thus, to Animadvertize them. That the <hi>Noſe</hi> of this preſent Parliament, confronting the <hi>mouth,</hi> — Whether it is not an Ominous Repreſentative of the Ugly face the Houſe muſt needs have, whileſt <hi>OP</hi> ſhall quite out-Noſe the Speaker.</p>
+               <p n="94">94. Whether the Noſe of this preſent Parliament being too bigge for the Mouth, all the Members are not in a ſnotty con<g ref="char:EOLhyphen"/>dition, ſince the old Saying is, that <hi>Seldome comes a Better,</hi> when <hi>OP</hi> is gone, whether will not the Divell come in his Roome.</p>
+               <p n="95">95 Whether, the Heire of <hi>OP,</hi> his Succeſſour, if the Gene<g ref="char:EOLhyphen"/>rall peace goe on, may not turne Ward to <hi>Charles Steward</hi> in his Fathers life time.</p>
+               <p n="96">96. Whether, hee that writ upon the Doore of an houſe of Office; <hi>Here are Fartes to bee let,</hi> would have let them for nothing, or would hee have ſold them.</p>
+               <p n="97">97 Whether an <hi>Jriſh</hi> man would not ſooner have ſhit in his Trowſes, then come neare to the Doore of that houſe on which was written —</p>
+               <q>Here are Farts to bee let.</q>
+               <p n="98">98. Whether a <hi>Welch</hi> hand Granado, that is to ſay a <hi>Cockle<g ref="char:EOLhyphen"/>demoy</hi> in fitrup, or an <hi>Engliſh</hi> Bumcrack, will more ſtartle an <hi>Iriſh man.</hi>
+               </p>
+               <pb n="10" facs="tcp:119363:6"/>
+               <p n="99">99. Whether, the <hi>Julian</hi> and <hi>Gregorian</hi> Accompts are not to ſubmit to the <hi>Olivarian,</hi> whoſe <hi>Arithmatick</hi> taketh 17. or 18. moneths Contribution from us out 12. in the Yeare.</p>
+               <p n="100">100. Whether, the Premiſſes conſidered, wee doe not Live in precious times.</p>
+               <p n="101">101. Whether, upon the Accompt aforeſaid, doth hee give us Large meaſure, or make us pay for more then we have.</p>
+               <p n="102">102. Whether, ſince the Mountaines brought forth, was there any thing hatcht ſo Ridiculous, as this <hi>other Houſe.</hi>
+               </p>
+               <p n="103">103. Whether, the firſt day of <hi>OP</hi> his <hi>Kingſhip,</hi> may not be the laſt of his Proſperity.</p>
+               <p n="104">104. Whether from <hi>OP</hi> who was alwayes a Tempeſt in his Life, wee are to expect any thing, but Inundations at his Death.</p>
+               <p n="105">105. Whether, when <hi>OP</hi> is Crowned <hi>King,</hi> wee ought not to have Copper money againe.</p>
+               <p n="106">106. Whether, when <hi>OP</hi> his Coyne comes abroad, every body that hates him in his Place, will not be glad to have his Picture in their Pockets.</p>
+               <p n="107">107. Whether, <hi>OP</hi> forbidding Gaming, at the Ordinaries, did not fore ſee that they would play with his Noſe which every chance of the Dice would ſet at Stake.</p>
+               <p n="108">108. Whether, the faireſt Cedar of <hi>Great Britaine,</hi> having been cut downe at the Root, by <hi>OP,</hi> ſome Branches thereof, may not yet ſpring out, to choake the Glory of ſo Barbarous a Triumph, by putting a Spoake into the wheeles of his Cha<g ref="char:EOLhyphen"/>riot.</p>
+               <p n="109">109. Whether, <hi>OP</hi> for theſe Nine yeares paſt and upwards, having blowne the Coales of Rebellion and Sedition, not only at home (but in all Parts abroad) may not ſee ſome Sparkles, then, by the turning of the wind, ſet fire on his proper Houſe; when the <hi>Germane</hi> Eagle ſhall build her Neſt upon the <hi>Engliſh Oake;</hi> Whether will <hi>OP</hi> with all his <hi>Dawes</hi> and <hi>Pyes</hi> betake themſelves.</p>
+               <p n="110">110. Though <hi>Van</hi> was forced to fall to the Rere, when <hi>Blake</hi> became <hi>Trumpe</hi> at Sea.</p>
+               <pb n="11" facs="tcp:119363:6"/>
+               <p>Whether yet, the <hi>Hogin Mogins,</hi> may not ſhuffle the Cards againe, and play a latter Game, at <hi>Logerheads</hi> with us, is the queſtion.</p>
+               <p n="111">111. Whether, the Pope alſo through his Influence on the Peace, which will ſpoyle all our Markets in <hi>Flaunders</hi> (though threatned long ſince, by <hi>OP</hi>) may not have the firſt Fling at his Plum-tree.</p>
+               <p n="112">112. When all that are truly Generous <hi>Engliſh</hi>-men, ſhall be awaked out of the Letargie they have laine in (under the ſlavery of a long continued Tyrannie) by the Apparition of CHARLES STEVVART their lawfull King —</p>
+               <p>Whether like Shadowes before the advanced Sunne, or light Chaffe before the Winds impelling it; will not <hi>OP,</hi> and all his Followers Retrograde Seeke out corners, where to avoid his Radiant eyes, and even for feare of his juſt Vengeance hang themſelves.</p>
+            </div>
+            <trailer>The End.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Printed in <hi>
+                  <g ref="char:V">Ʋ</g>topia,</hi> that ſhall be 1659. To be ſold by the Haukers at St. <hi>Magnus,</hi> and <hi>Pye</hi>-Corner.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
